@@ -1,0 +1,119 @@
+---
+title: "Cleaning US Census Data"
+output: html_notebook
+---
+
+```{r message=FALSE, warning=FALSE, error=TRUE}
+# load libraries
+
+
+
+```
+
+```{r message=FALSE, warning=FALSE, error=TRUE}
+# load CSVs
+
+
+
+```
+
+```{r error=TRUE}
+# inspect data
+
+
+
+```
+
+```{r error=TRUE}
+# drop X1 column
+
+
+
+```
+
+```{r error=TRUE}
+# remove % from race columns
+
+
+
+
+
+
+
+
+```
+
+```{r error=TRUE}
+# remove $ from Income column
+
+
+
+```
+
+```{r error=TRUE}
+# separate GenderPop column
+
+
+
+```
+
+```{r error=TRUE}
+# clean male and female population columns
+
+
+
+
+```
+
+```{r error=TRUE}
+# update column data types
+
+
+
+
+
+
+
+
+
+
+
+```
+
+```{r error=TRUE}
+# update values of race columns
+
+
+
+
+
+
+
+
+
+```
+
+```{r error=TRUE}
+# check for duplicate rows
+
+
+
+```
+
+```{r error=TRUE}
+# remove duplicate rows
+
+
+```
+
+```{r error=TRUE}
+# check for duplicate rows
+
+
+
+```
+
+```{r error=TRUE}
+# clean data frame
+
+```
